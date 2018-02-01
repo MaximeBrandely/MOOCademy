@@ -2,7 +2,7 @@
 
 # BIENVENUE A TOI CHER CORRECTEUR !
 
-![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
+![THP](https://avatars2.githubusercontent.com/u/25484553?s=200&v=4)
 
 Le MOOCademy marche nickel normalement. J'ai fait les liaisons et les ai vérifiées avec la console de rails.
 
