@@ -1,24 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+# BIENVENUE A TOI CHER CORRECTEUR !
 
-Things you may want to cover:
+![Zozor](http://uploads.siteduzero.com/files/420001_421000/420263.png)
 
-* Ruby version
+Le MOOCademy marche nickel normalement. J'ai fait les liaisons et les ai vérifiées avec la console de rails.
 
-* System dependencies
+J'ai donc deux models :
+- course
+- lesson 
 
-* Configuration
+Je leur ai mis des attributs et une liaison.
 
-* Database creation
 
-* Database initialization
 
-* How to run the test suite
 
-* Services (job queues, cache servers, search engines, etc.)
+### Bon courage à toi pour la suite ! :)
 
-* Deployment instructions
+Koyote
 
-* ...
