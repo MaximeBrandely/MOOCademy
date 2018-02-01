@@ -23,8 +23,10 @@ ActiveRecord::Schema.define(version: 20180201163517) do
     t.string "title"
     t.text "body"
     t.integer "courses_id"
+    t.integer "course_id"
     t.datetime "created_at", null: false
     t.datetime "updated_at", null: false
+    t.index ["course_id"], name: "index_lessons_on_course_id"
   end
 
 end
