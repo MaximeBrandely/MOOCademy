@@ -21,5 +21,6 @@ Je leur ai mis des attributs et une liaison.
 
 ### Bon courage à toi pour la suite ! :)
 
-Koyote
+![Koy](https://image.noelshack.com/fichiers/2018/05/4/1517512365-koyote.png)
+ **Koyote** ![Koy](https://image.noelshack.com/fichiers/2018/05/4/1517512365-koyote.png)
 
